@@ -1,0 +1,18 @@
+{
+  "name": "Elena Koulakova — Guida Turistica Autorizzata",
+  "short_name": "Elena Koulakova",
+  "description": "Guida turistica autorizzata per Umbria e Toscana. Tour personalizzati in italiano, inglese e russo.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FDFBF7",
+  "theme_color": "#8B6914",
+  "lang": "it",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

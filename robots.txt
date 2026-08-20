@@ -1,0 +1,53 @@
+User-agent: *
+Allow: /
+Disallow: /privacy.html
+Disallow: /cookie.html
+Disallow: /termini.html
+Disallow: /note-legali.html
+
+# Block AI training crawlers (TDM Reservation under EU Directive 2019/790,
+# Art. 70-quater Italian copyright law L. 633/1941 as amended by D.Lgs. 177/2021).
+User-agent: GPTBot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: OAI-SearchBot
+Disallow: /
+User-agent: Google-Extended
+Disallow: /
+User-agent: GoogleOther
+Disallow: /
+User-agent: anthropic-ai
+Disallow: /
+User-agent: ClaudeBot
+Disallow: /
+User-agent: Claude-Web
+Disallow: /
+User-agent: cohere-ai
+Disallow: /
+User-agent: PerplexityBot
+Disallow: /
+User-agent: Perplexity-User
+Disallow: /
+User-agent: CCBot
+Disallow: /
+User-agent: Bytespider
+Disallow: /
+User-agent: FacebookBot
+Disallow: /
+User-agent: Meta-ExternalAgent
+Disallow: /
+User-agent: Applebot-Extended
+Disallow: /
+User-agent: ImagesiftBot
+Disallow: /
+User-agent: Diffbot
+Disallow: /
+User-agent: Omgili
+Disallow: /
+User-agent: AwarioRssBot
+Disallow: /
+User-agent: AwarioSmartBot
+Disallow: /
+
+Sitemap: https://russiantuscanyguide.com/sitemap.xml
